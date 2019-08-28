@@ -1,0 +1,11 @@
+/*
+!/src
+!/dist
+!/build
+!/.jshintrc
+!/gulpfile.js
+!/index.html
+!/package.json
+!/package-lock.json
+!/yarn-error
+!/.gitignore
